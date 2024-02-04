@@ -1,2 +1,4 @@
 # First_demo
-this is my first Git repository
+this is my first Git repository.
+<br>
+AUTHOR:NYANII EMMANUEL
